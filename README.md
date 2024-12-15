@@ -13,6 +13,6 @@ In the fast-paced retail industry, businesses must navigate dynamic market condi
   - Analyzed trends across product categories, regions, and time periods using Matplotlib and Seaborn visualizations (e.g., bar charts, pie charts, line graphs).
   - Key insights include identifying top-performing regions, seasonal sales trends, and the impact of discounts on profitability.
 ### Model Development:
-  - LightGBM: Efficiently handled large datasets and complex interactions; optimized hyperparameters (learning rate, depth, estimators) via Grid Search for better performance.
+  - ####LightGBM:#### Efficiently handled large datasets and complex interactions; optimized hyperparameters (learning rate, depth, estimators) via Grid Search for better performance.
   - LSTM: Captured temporal dependencies through a sliding window approach, with sequential length and dropout rates fine-tuned to minimize overfitting.
 
